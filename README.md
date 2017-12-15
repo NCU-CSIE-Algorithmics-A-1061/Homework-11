@@ -15,14 +15,14 @@
 1. Exercises 24.4-2<br>
 Find a feasible solution or determine that no feasible solution exists for the following system of difference constraints:
 
-    x<sub>1</sub> - x<sub>2</sub> ≤ 4,
-    x<sub>1</sub> - x<sub>5</sub> ≤ 5,
-    x<sub>2</sub> - x<sub>4</sub> ≤ -6,
-    x<sub>3</sub> - x<sub>2</sub> ≤ 1,
-    x<sub>4</sub> - x<sub>1</sub> ≤ 3,
-    x<sub>4</sub> - x<sub>3</sub> ≤ 5,
-    x<sub>4</sub> - x<sub>5</sub> ≤ 10,
-    x<sub>5</sub> - x<sub>3</sub> ≤ -4,
+    x<sub>1</sub> - x<sub>2</sub> ≤ 4,<br>
+    x<sub>1</sub> - x<sub>5</sub> ≤ 5,<br>
+    x<sub>2</sub> - x<sub>4</sub> ≤ -6,<br>
+    x<sub>3</sub> - x<sub>2</sub> ≤ 1,<br>
+    x<sub>4</sub> - x<sub>1</sub> ≤ 3,<br>
+    x<sub>4</sub> - x<sub>3</sub> ≤ 5,<br>
+    x<sub>4</sub> - x<sub>5</sub> ≤ 10,<br>
+    x<sub>5</sub> - x<sub>3</sub> ≤ -4,<br>
     x<sub>5</sub> - x<sub>4</sub> ≤ -8.
 
 2. Problem 24-3 Arbitrage<br>
