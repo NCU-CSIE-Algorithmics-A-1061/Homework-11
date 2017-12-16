@@ -37,7 +37,6 @@ Analyze the running time of your algorithm.
 Give an efficient algorithm to find the length (number of edges) of a minimum-length negative-weight cycle in a graph.
 
 4. Show whether the Floyd-Warshall algorithm can detect negative-weight cycles. If yes, show how to find one of them.
-    - **constructing...**
 
 5. Exercises 25.2-1<br>
 Run the Floyd-Warshall algorithm on the weighted, directed graph of figure below. and answer the following questions:
